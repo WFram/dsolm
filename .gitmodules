@@ -1,0 +1,15 @@
+[submodule "mcl_3dl_msgs"]
+	path = mcl_3dl_msgs
+	url = https://github.com/at-wat/mcl_3dl_msgs
+[submodule "mcl_3dl"]
+	path = mcl_3dl
+	url = https://github.com/WFram/mcl_3dl
+[submodule "visual_ogm"]
+	path = visual_ogm
+	url = https://github.com/WFram/visual_ogm
+[submodule "stereo-dso"]
+	path = stereo-dso
+	url = https://github.com/WFram/stereo-dso
+[submodule "stereo_dso_ros"]
+	path = stereo_dso_ros
+	url = https://github.com/WFram/stereo_dso_ros
